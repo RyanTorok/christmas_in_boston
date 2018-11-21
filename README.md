@@ -1,1 +1,1 @@
-This is not code. This is music.
+I'm a programmer, but this is not code. This is a musical score for full orchestra. Eventually all these files will be part of one score, but as of now I haven't written enough for them to all connect to each other.
